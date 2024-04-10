@@ -7,4 +7,4 @@ I set the Nginx manager based on docker and forward ports to have access using t
 ![image](https://github.com/Tsybon/Chupapi/assets/124361179/758e9496-526c-40d9-930a-2d756b5542e0)
 
 As a result, I got access to the honeypot manager page using the domain
-![image](https://github.com/Tsybon/Chupapi/assets/124361179/fad6a1e8-04c4-4c5f-bad8-f4fda17939ae)
+![image](https://github.com/Tsybon/Chupapi/assets/124361179/981e36cb-5c5c-448a-9619-e1aba097e251)
